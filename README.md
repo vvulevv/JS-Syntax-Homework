@@ -1,2 +1,0 @@
-JS-Syntax-Homework
-==================
